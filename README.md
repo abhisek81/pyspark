@@ -1,6 +1,6 @@
 # PySpark for Data Engineering — Learning Path
 
-Hands-on, heavily commented PySpark scripts focused on real data engineering pipelines. A new lesson is added to the lessons/ folder every 12 hours. Each lesson explains the concepts, includes runnable code (most use self-generated sample data so you can run them locally), and ends with exercises and interview tips.
+Hands-on, heavily commented PySpark scripts focused on real data engineering pipelines. Each lesson explains the concepts, includes runnable code (most use self-generated sample data so you can run them locally), and ends with exercises and interview tips.
 
 ## How to run a lesson locally
 
